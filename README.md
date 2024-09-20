@@ -22,7 +22,12 @@ Hi, I'm Kevin Rodriguez!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <hr>
 
-# Bienvenido 👋<br><br>¡Hola! 👨‍💻<br><br>Este repositorio es un espacio personal donde comparto un poco más sobre mí: mis intereses, habilidades y proyectos. Aquí encontrarás información detallada sobre mi carrera, tecnologías que domino y algunos ejemplos de mi trabajo.<br><br>Siéntete libre de explorar, contribuir o simplemente conocer más sobre mi trayectoria. ¡Espero que disfrutes el contenido tanto como yo disfruté crearlo!<br><br>🚀 **¡Gracias por visitarme!**  <br>
+### Bienvenido 👋
+
+<p align="center"  >
+👨‍💻 Este repositorio es un espacio personal donde comparto un poco más sobre mí: mis intereses, habilidades y proyectos. Aquí encontrarás información detallada sobre mi carrera, tecnologías que domino y algunos ejemplos de mi trabajo.
+	Siéntete libre de explorar, contribuir o simplemente conocer más sobre mi trayectoria. ¡Espero que disfrutes el contenido tanto como yo disfruté crearlo!<br><br>🚀 <b>¡Gracias por visitarme!</b>  <br>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
